@@ -1,0 +1,16 @@
+    {
+        "window.commandCenter": true,
+        "disable-hardware-acceleration": true,
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "files.autoSave": "afterDelay",
+        "workbench.colorTheme": "Abyss",
+        "terminal.integrated.gpuAcceleration": "off",
+        "workbench.panel.defaultLocation": "bottom",
+        "files.watcherExclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/node_modules/*/**": true,
+            "**/build/**": true,
+            "**/dist/**": true
+        }
+    }
