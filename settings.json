@@ -4,6 +4,9 @@
         "terminal.integrated.defaultProfile.linux": "zsh",
         "files.autoSave": "afterDelay",
         "workbench.colorTheme": "Abyss",
+         "editor.fontFamily": "FiraCode Nerd Font",
+        "editor.fontLigatures": true,
+        "editor.fontWeight": "bold",
         "terminal.integrated.gpuAcceleration": "off",
         "workbench.panel.defaultLocation": "bottom",
         "files.watcherExclude": {
